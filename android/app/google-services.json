@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "441518811604",
+    "project_id": "haleemh-d7598",
+    "storage_bucket": "haleemh-d7598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441518811604:android:06c2e9f89bf0f0b2cdce41",
+        "android_client_info": {
+          "package_name": "com.parent.halema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441518811604-e9gfdba0vq8mm2d3u2cop1hib63l5ekc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcL8bt7j5bbIo0NIQWin9g2dLFOLKSbt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441518811604-e9gfdba0vq8mm2d3u2cop1hib63l5ekc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441518811604:android:c7c9242e52e1e7ebcdce41",
+        "android_client_info": {
+          "package_name": "com.setter.haleema"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441518811604-e9gfdba0vq8mm2d3u2cop1hib63l5ekc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcL8bt7j5bbIo0NIQWin9g2dLFOLKSbt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441518811604-e9gfdba0vq8mm2d3u2cop1hib63l5ekc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
